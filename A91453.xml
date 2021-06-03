@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments lamentation. For the distractions of the kingdome. First, wherein is declared their great sorrow for the Kings absence. Secondly, that the church is so full of disturbances and distractions, caused by evill affected persons, which under the pretence of religion, commit all sorts of outrages, and by their tumultuary practices destroy both the peace of the church and kingdome. Thirdly, that neverthelesse though the Parliament have declared against such tumults, which causes His Majesty to declare them the abettors and maintainers of the said tumults and distractions. Ordered that this be forthwith printed. Jo. Browne, Cler. Parl.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91453</idno><idno type="EEBO-CITATION">99871587</idno>
+  <idno type="VID">156816</idno>
+  <idno type="EEBO-PROQUEST">2240928918</idno>
+  
+            <idno type="STC">Wing P514</idno>
+            <idno type="STC">Thomason E154_6</idno>
+            <idno type="STC">ESTC R22105</idno>
+            <idno type="PROQUEST">99871587</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871587e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156816)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments lamentation. For the distractions of the kingdome. First, wherein is declared their great sorrow for the Kings absence. Secondly, that the church is so full of disturbances and distractions, caused by evill affected persons, which under the pretence of religion, commit all sorts of outrages, and by their tumultuary practices destroy both the peace of the church and kingdome. Thirdly, that neverthelesse though the Parliament have declared against such tumults, which causes His Majesty to declare them the abettors and maintainers of the said tumults and distractions. Ordered that this be forthwith printed. Jo. Browne, Cler. Parl.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Iuly, 6. London, Printed by T. Fawcet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156816:1"/>
+            <p>THE PARLIAMENTS LAMENTATION▪ FOR The Distractions of the Kingdome.</p>
+            <p>First, VVherein is declared their great sorrow for the Kings absence.</p>
+            <p>Secondly, that the Church is so full of disturban<g ref="char:EOLhyphen"/>ces and distractions, caused by evill affected persons, which under the pretence of Religion, commit all sorts of outrages, and by their Tumultuary practices destroy both the Peace of the Church and Kingdome.</p>
+            <p>Thirdly, that neverthelesse though the Parlia<g ref="char:EOLhyphen"/>ment have declared against such Tumults, which cau<g ref="char:EOLhyphen"/>ses His Majesty to declare them the abettors and maintainers of the said Tumults and Distractions.</p>
+            <p>
+               <hi>Ordered that this be forthwith Printed.</hi>
+            </p>
+            <p>Jo. Browne, Cler. Parl.</p>
+            <p>
+               <hi>Iuly,</hi> 6. LONDON, Printed by <hi>T. Fawcet.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156816:2"/>
+            <pb n="1" facs="tcp:156816:2"/>
+            <head>The PARLIAMENTS Lamentation, for the Distractions of the KINGDOME.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat has beene done by the High Court of Par<g ref="char:EOLhyphen"/>liament for to ease the pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures of the King<g ref="char:EOLhyphen"/>dome, and to cure the distempers and distra<g ref="char:EOLhyphen"/>ctions of this Land, is apparently manifest, nevertheless it will not bee unnecessary to quote some of the most remarkable benefits that the Kingdom has received by the providence of GOD and the wisdome of the <hi>Parliament,</hi> in the three last yeares touching the Divisions and distrac<g ref="char:EOLhyphen"/>tions betweene <hi>England</hi> and <hi>Scotland,</hi> both
+<pb n="2" facs="tcp:156816:3"/> Kingdomes being cover'd with Armed men, drawne into t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Field each against o<g ref="char:EOLhyphen"/>ther, ready to begin a fatall and a bloody Warre, by the All seeing providence of the Almighty, and the great wisdome of the Parliament, an exact <hi>Pacification</hi> was made in both Kingdomes, and a brotherly Union was happily procured.</p>
+            <p>The taxes and Impositions which by an Arbitrary power were imposed on the Sub<g ref="char:EOLhyphen"/>ject, and taken off (namely the <hi>Ship-m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ney</hi>) which cost the Kingdom 200000. pounds a yeare.</p>
+            <p>The <hi>Coat</hi> and <hi>Conduct</hi>-money, and other Military charges are taken away, which in many Counties amounted to no lesse then the <hi>Ship</hi>-money.</p>
+            <p>The <hi>Monopolies</hi> are supprest, wherof some did prejudice the Subject above a Million yearely. The <hi>Sope</hi> 10000. pounds. The <hi>Wine</hi> 30000. pounds. The <hi>Leather</hi> exceeded both, the <hi>Salt</hi> could not be lesse then that.</p>
+            <p>The Authors of these Grievances have beene some forced to flie from their Iustice,
+<pb n="3" facs="tcp:156816:3"/> others have tasted of their Iustice, others at<g ref="char:EOLhyphen"/>tend their censure.</p>
+            <p>To prevent the like Grievances they have made an Act for <hi>Triennall</hi> Parliaments, and likewise for the abrupt breaking off this <hi>Parliament</hi> by another Bill</p>
+            <p>Innumerable more benefits we have re<g ref="char:EOLhyphen"/>ceived too tedious at this present to be re<g ref="char:EOLhyphen"/>lated, yet neverthelesse, by the wicked Prac<g ref="char:EOLhyphen"/>tises of an number of evill affected persons, there has beene a great stop made, and a maine and unhappie hinderance to the pro<g ref="char:EOLhyphen"/>ceedings of <hi>Parliament.</hi>
+            </p>
+            <p>First, by reason that the King being sedu<g ref="char:EOLhyphen"/>ced by evill Counsell, hath left the Parlia<g ref="char:EOLhyphen"/>ment, which hath produced a greater mis<g ref="char:EOLhyphen"/>chiefe for this Division hath caus'd a dis<g ref="char:EOLhyphen"/>cention, and this discention a more fa<g ref="char:EOLhyphen"/>tall effect.</p>
+            <p>The 1. cause of sorrow is that by reason of certain tumults &amp; rude Assemblies, (which the King declared to be the greatest cause of his Absence) the Parliament undergoes the calumnious slanders of being abettors,
+<pb n="4" facs="tcp:156816:4"/> nay maintainers of such Tumults, witnesse His Majesties last Declaration concer<g ref="char:EOLhyphen"/>ning Levies, when it is apparently manifest that they have declared against all such Tumults, and endeavoured to bring the Authors to exemplary punishment.</p>
+            <p>Let but your reason rule you, and you may easily discerne what cause of Lamenta<g ref="char:EOLhyphen"/>tion the Parliament hath, and in what a dangerous estate, full of trouble, and Vex<g ref="char:EOLhyphen"/>ation, every member of the same is in.</p>
+            <p>First, <hi>In regard of His Majesties displea<g ref="char:EOLhyphen"/>sure.</hi>
+            </p>
+            <p>Secondly, <hi>In regard of the Troubles and Distractions of the Kingdome.</hi>
+            </p>
+            <p>The second cause of Sorrow is, that the Actions of some irreligious people, which neither regard Law nor Religion, which will neither obey the <hi>King</hi> nor <hi>them,</hi> should be layd to their Charge, they being coun<g ref="char:EOLhyphen"/>ted the Promoters and abetters of the said Tumults, which they have so often Decla<g ref="char:EOLhyphen"/>red against, and which of all things they detest.</p>
+            <pb n="5" facs="tcp:156816:4"/>
+            <p>3. That men endowed with reason, and professors of Religion, should be so igno<g ref="char:EOLhyphen"/>rantly zealous, as to think that disturbance in the Church, can produce a religious Peace, or tumultuous dissention, a wished succesfull union.</p>
+            <p>Let but your reasonable Soules consider, whether these men be not either very igno<g ref="char:EOLhyphen"/>rant, or desperately mad, that doe things contrary to the Pleasure of the Parliament, and yet pretend they doe them for the de<g ref="char:EOLhyphen"/>fence of the Parliament, that pretend they doe things for the advancement of religion, when they seeke the ruine both of Church and Religion.</p>
+            <p>Can any man be so sencelesse, as to ima<g ref="char:EOLhyphen"/>gine that the Parliament would let these men goe unpunished, much lesse autho<g ref="char:EOLhyphen"/>rize them▪ which made such an unheard of tumult in the Church of St. <hi>Giles Criple</hi>-Gate, on the third of <hi>July,</hi> where the Church was made a Denne of disturbance, where the Priest was buffeted and abus'd, like the poore <hi>Publican</hi> among Theeves.</p>
+            <pb n="6" facs="tcp:156816:5"/>
+            <p>Likewise in <hi>Covent-Garden</hi> Church, on the same day was a great tumul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the word <hi>Roundhead,</hi> spoken by a Boy, in which tumult many Ladies and Gentlewomen were troden under foot, dispoyled of their Iewels, and Lives brought in great danger.</p>
+            <p>These men doubtlesse neither regard Law nor Religion, whatsoever they pre<g ref="char:EOLhyphen"/>tend, but being sunke in their owne For<g ref="char:EOLhyphen"/>tunes, strive to advance themselves by others ruines, they would not else (knowing how apt the Malignant party is to cast asperti<g ref="char:EOLhyphen"/>ons on the Parliament) commit such out<g ref="char:EOLhyphen"/>rages.</p>
+            <p>God grant that their evill Examples past, may be a president of prevention for the time to come, and that these dissenti<g ref="char:EOLhyphen"/>ons betweene the King and Parliament, may be brought to a happy period.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Ordered that this be printed, and pub<g ref="char:EOLhyphen"/>lished.</p>
+                        <closer>
+                           <signed>Joh. Browne, Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
